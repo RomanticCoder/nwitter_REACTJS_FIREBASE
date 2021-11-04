@@ -1,0 +1,8 @@
+firebase: started as a database > acquired by google
+backend service 
+
+vs AWS Amplify
+
+when to use it?
+to test the ideas as fast as possible,
+don't want to spen time on real users, servers
